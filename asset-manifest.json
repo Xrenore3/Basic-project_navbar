@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Basic-project_navbar/static/css/main.9144ac09.chunk.css",
+    "main.js": "/Basic-project_navbar/static/js/main.1b1c583b.chunk.js",
+    "main.js.map": "/Basic-project_navbar/static/js/main.1b1c583b.chunk.js.map",
+    "runtime-main.js": "/Basic-project_navbar/static/js/runtime-main.e5702d9f.js",
+    "runtime-main.js.map": "/Basic-project_navbar/static/js/runtime-main.e5702d9f.js.map",
+    "static/js/2.41d20619.chunk.js": "/Basic-project_navbar/static/js/2.41d20619.chunk.js",
+    "static/js/2.41d20619.chunk.js.map": "/Basic-project_navbar/static/js/2.41d20619.chunk.js.map",
+    "index.html": "/Basic-project_navbar/index.html",
+    "precache-manifest.e3f56a87e0c357b9400e7c406fae0160.js": "/Basic-project_navbar/precache-manifest.e3f56a87e0c357b9400e7c406fae0160.js",
+    "service-worker.js": "/Basic-project_navbar/service-worker.js",
+    "static/css/main.9144ac09.chunk.css.map": "/Basic-project_navbar/static/css/main.9144ac09.chunk.css.map",
+    "static/js/2.41d20619.chunk.js.LICENSE.txt": "/Basic-project_navbar/static/js/2.41d20619.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Basic-project_navbar/static/media/logo.2b686f2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5702d9f.js",
+    "static/js/2.41d20619.chunk.js",
+    "static/css/main.9144ac09.chunk.css",
+    "static/js/main.1b1c583b.chunk.js"
+  ]
+}
